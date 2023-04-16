@@ -1,5 +1,5 @@
 # ng-prettier-eslint-bug
-TBD
+https://github.com/angular-eslint/angular-eslint/issues/1144
 ## Steps
 1. Run `npm install`
 2. Run `npm run lint`
